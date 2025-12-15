@@ -64,11 +64,8 @@ Press 'q' to close camera window.
 ---
 
 ## Future Improvements
-- Excel attendance export
 - GUI interface
 - Database integration
 
 ---
 
-## Author
-CSC369 Computer Vision Project
